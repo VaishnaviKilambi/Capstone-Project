@@ -1,4 +1,4 @@
-# Capstone-Project (Aug 2022 – Aug 2023)
+# Capstone-Project (Oct 2022 – May 2023)
 Analyzed data for Chinese logistics firm and Identified key factors that impact customer review scores
 
 Proposed algorithm with 81% accuracy after implementing different machine learning algorithms like Logistic regression, Boosting, Decision trees and Random Forest
