@@ -1,11 +1,19 @@
 # Capstone-Project (Oct 2022 – May 2023)
-Analyzed data for Chinese logistics firm and Identified key factors that impact customer review scores
 
-Proposed algorithm with 72% accuracy after implementing different machine learning algorithms like Logistic regression, Boosting, Decision trees and Random Forest
+Analyzed raw data to determine important pre-processing steps on over 45 million data points before data analytics.
+
+Applied machine learning tools to determine relevant Cainiao network actions that influenced customer satisfaction.
+
+Developed key metrics to help understand why and how customers reacted to different shipping situations.
+
+Implemented different Machine learning algorithms like Random forest, Bagging, boosting and time series forecasting. 
+
+Used smote to address imbalance in data and Proposed Algorithm with 72% accuracy to predict customer behavior
+
+Predicted replenishment quantity using time series forecasting and formulate inventory allocation strategies
 
 Further researching on estimating purchase likelihood of products, defining pricing strategies and evaluating predictive power on future demand of products
 
-Predicted replenishment quantity using time series forecasting and formulate inventory allocation strategies
 
 
 Project Objective :
